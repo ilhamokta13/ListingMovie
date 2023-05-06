@@ -61,7 +61,7 @@ class ProfileFragment : Fragment() {
             firebaseAuth = FirebaseAuth.getInstance()
             firebaseAuth.signOut()
             Toast.makeText(context, "Anda Keluar", Toast.LENGTH_SHORT).show()
-            Navigation.findNavController(binding.root).navigate(R.id.action_profileFragment_to_homeFragment)
+            Navigation.findNavController(binding.root).navigate(R.id.action_profileFragment_to_loginFragment)
         }
 
 

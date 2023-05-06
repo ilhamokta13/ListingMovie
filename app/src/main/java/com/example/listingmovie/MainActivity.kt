@@ -13,9 +13,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        binding.btnCrash.setOnClickListener {
-                throw RuntimeException("Test Crash") // Force a crash
-            }
+
+
 
 
         }

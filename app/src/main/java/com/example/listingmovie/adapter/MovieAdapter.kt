@@ -39,6 +39,7 @@ class MovieAdapter(var listmovie : List<Result>) : RecyclerView.Adapter<MovieAda
             var mediatype = listmovie[position].mediaType.toString()
             var date = listmovie[position].releaseDate.toString()
             var overview = listmovie[position].overview.toString()
+
             var detail = DetailMovie(image,title,mediatype, date, overview)
 
             val data = Bundle()
