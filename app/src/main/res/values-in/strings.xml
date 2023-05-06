@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListingMovie</string>
+    <string name="hello_blank_fragment">Halo Fragment Kosong</string>
+    <string name="english">Inggris</string>
+    <string name="detail">Lengkap</string>
+    <string name="release">Keluar</string>
+    <string name="rating">peringkat</string>
+    <string name="welcome_username">Selamat datang, nama pengguna!</string>
+    <string name="id">ID</string>
+    <string name="login">Masuk</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="Login">Masuk</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="register">Daftar</string>
+    <string name="masukkanusername">Masukkan Username</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_konfirmasi_password">Masukkan Konfirmasi Password</string>
+    <string name="masukkanpassword">Masukkan Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="masukkanUsername">Masukkan Username</string>
+    <string name="profile">Profil</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="logout">Keluar</string>
+    <string name="update">Memperbarui</string>
+    <string name="Release">Keluar</string>
+    <string name="Rating">Peringkat</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="home">Tampilan Depan</string>
+    <string name="nama_film">nama Film</string>
+    <string name="deskripsi_sinopsis">Deskripsi Sinopsis</string>
+    <string name="namafilm">Nama Film</string>
+    <string name="Overview">Ringkasan</string>
+    <string name="tipe_media">Tipe media</string>
+    <string name="date">Tanggal</string>
+    <string name="namaFilm">Nama Film</string>
+    <string name="ulasan">Ulasan</string>
+    <string name="MasukkanPassword">Masukkan Password</string>
+    <string name="MasukkanEmail">Masukkan Email</string>
+    <string name="crash">Gagal</string>
+</resources>

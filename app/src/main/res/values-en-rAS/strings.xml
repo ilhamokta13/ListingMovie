@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListingMovie</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="nama_film">Film Name</string>
+    <string name="deskripsi_sinopsis">Synopsis Description</string>
+    <string name="id">ID</string>
+    <string name="masukkan_username">Enter Username</string>
+    <string name="masukkan_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="Login">Login</string>
+    <string name="belum_punya_akun">Don\'t have an account yet?</string>
+    <string name="register">Register</string>
+    <string name="masukkanusername">Enter Username</string>
+    <string name="masukkan_email">Enter Email</string>
+    <string name="masukkan_konfirmasi_password">Enter Confirm Password</string>
+    <string name="masukkanpassword">Enter Password</string>
+    <string name="daftar">Register</string>
+    <string name="masukkanUsername">Enter Username</string>
+    <string name="profile">Profile</string>
+    <string name="nama_lengkap">Full Name</string>
+    <string name="tanggal_lahir">Date Of Birth</string>
+    <string name="alamat">Address</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+    <string name="Release">Release</string>
+    <string name="Rating">Rating</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="english">English</string>
+    <string name="detail">Detail</string>
+    <string name="release">Release</string>
+    <string name="rating">Rating</string>
+    <string name="welcome_username">Welcome, username!</string>
+    <string name="home">Home</string>
+    <string name="namafilm">Film Name</string>
+    <string name="Overview">Overview</string>
+    <string name="tipe_media">media type</string>
+    <string name="date">Date</string>
+    <string name="namaFilm">Film Name</string>
+    <string name="ulasan">Overview</string>
+    <string name="MasukkanPassword">Enter Password</string>
+    <string name="MasukkanEmail">Enter Email</string>
+    <string name="crash">Enter Crash</string>
+</resources>

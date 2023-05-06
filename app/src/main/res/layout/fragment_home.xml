@@ -22,7 +22,7 @@
             android:layout_marginEnd="50dp"
             android:layout_toStartOf="@+id/btn_profile"
             android:padding="18dp"
-            android:text="Welcome, username!" />
+            android:text="@string/welcome_username" />
 
         <ImageView
             android:id="@+id/btn_profile"
@@ -31,6 +31,23 @@
             android:layout_alignParentEnd="true"
             android:padding="18dp"
             android:src="@drawable/ic_baseline_person_24" />
+
+        <TextView
+            android:id="@+id/Homescreen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/welcome"
+            android:gravity="center_horizontal"
+            android:text="@string/home"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvFilm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Homescreen"
+            tools:listitem="@layout/item_movie" />
 
     </RelativeLayout>
 </layout>
